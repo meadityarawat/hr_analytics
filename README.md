@@ -1,1 +1,1 @@
-# hr_analytics
+Power BI dashboard for HR Analytics
